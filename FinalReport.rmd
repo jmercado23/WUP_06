@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+This data illustrates their somewhat equivalent with percentages who oppose and favor. It also shows that the white group favor capital punishment at an almost equal percentage. 
 
 ### Numerical Descriptive Results
 
