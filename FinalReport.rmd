@@ -79,6 +79,8 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+This table shows that the black graph had almost equal percentages for favor and oppose (49.55% vs %0.45%). It also shows that in the white group and other group
+there was almost the same amount of ppl who favor capital punishment (68.23% vs 68.75%) as well as oppose (31.77% vs 31.25%). 
 
 ## Inferential Results
 
