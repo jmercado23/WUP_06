@@ -1,7 +1,7 @@
 ---
 title: "GSS challange"
-author: "Put your name here!"
-date: "put the date here"
+author: "Julianne Mercado"
+date: "Fall 2021"
 output: html_document
 ---
 
@@ -18,7 +18,7 @@ require(knitr)
 require(foreign)
 GSS <-read.dta(file="GSS2018.dta")
 GSS <- droplevels(GSS)
-mydata <- select(GSS,race,cappun)
+mydata <- select(GSS,sex,race,cappun,degree,relig,gunlaw,tvhours,owngun,age,wordsum)
 mydata <- na.omit(mydata)
 ```
 
