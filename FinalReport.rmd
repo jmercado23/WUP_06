@@ -80,6 +80,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+This table as shown above reaffirms the percentages, 68% of the white group are in favor while 49% in the black group and 68% of the other group. 50% of the black group and 31% of the white group oppose this. 
 
 ## Inferential Results
 
@@ -167,6 +168,7 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+Though because we used more data, the fisher XY test was able to show us that the different test groups are different from each other. The white and black groups are different, as well as the white and other as well as the the groups other and black. 
 
 # Discussion and Conclusion
 
